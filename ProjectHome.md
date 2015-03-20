@@ -1,0 +1,1 @@
+This project has a goal to provide a database in several formats for zipcode,cities,states in the US.
